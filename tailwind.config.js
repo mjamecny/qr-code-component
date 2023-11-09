@@ -3,7 +3,7 @@ module.exports = {
   content: ["*"],
   theme: {
     fontFamily: {
-      sans: ["Outfit", "sans-serif"],
+      sans: ["'Outfit'", "sans-serif"],
     },
     spacing: {
       0.2: "2px",
